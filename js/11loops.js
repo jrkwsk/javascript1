@@ -16,17 +16,3 @@
 //
 
 
-
-
-var tablica = ["Krystian", "Monika", "Danuta"]; 
-
-for (var i = 0; i < tablica.lenght; i ++) {
-    console.log("Elament z Indexem: " + i + " ma wartość: " + i);
-}
-
-
-var it=10;
-while ( it < tablica.lenght ) {
-    console.log
-}
-    
