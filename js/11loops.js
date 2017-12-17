@@ -15,9 +15,18 @@
 //}); 
 //
 
-//nie dziala 
+
+
 
 var tablica = ["Krystian", "Monika", "Danuta"]; 
-for (var tablica = 0; tablica < tablica.lenght; tablica ++) {
-    console.log("Elament z Indexem: " + i + " ma wartość: " + tablica);
+
+for (var i = 0; i < tablica.lenght; i ++) {
+    console.log("Elament z Indexem: " + i + " ma wartość: " + i);
 }
+
+
+var it=10;
+while ( it < tablica.lenght ) {
+    console.log
+}
+    
